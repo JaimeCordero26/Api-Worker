@@ -1,0 +1,12 @@
+{
+  "name": "lab-worker",
+  "version": "1.0.0",
+  "main": "worker.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "pg": "^8.12.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
